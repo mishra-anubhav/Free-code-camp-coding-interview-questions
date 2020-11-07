@@ -1,6 +1,8 @@
 # Free-code-camp-coding-interview-questions
-This is the free course provided by free code camp which contains 1000 hour of Coding interview questions. 
+Solutions of the questions provided by free code camp, it contains almost 1000 hour of Coding interview questions. Enjoy! 
 Following are the questions:
-<uL>
-<li> Finding SYmmetric difference</li>
-</ul>
+<oL>
+<li><a href="https://github.com/mishra-anubhav/Free-code-camp-coding-interview-questions/tree/main/Algorithms"> Finding Symmetric difference</a></li>
+<li> Finding Symmetric difference</li>
+
+</ol>
