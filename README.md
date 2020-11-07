@@ -1,5 +1,5 @@
-# **Freecodecamp coding interview questions :scroll: :scroll:**
->Solutions of the questions provided by freecodecamp with better explanation (at least, I think so :sweat_smile: ), it contains almost 1000 hour of Coding interview questions. Enjoy! :bowtie: :bowtie:  Give me a Star if you like this repo. :star:
+# **Freecodecamp coding interview questions Python version :wink: :scroll: :scroll:**
+> Freecodecamp is the best website to mould yourself for programming, basically Fcc have all its coding question in javascript but I wanted to learn Python, thus, I just did the same questions in Python, it contains almost 1000 hour of Coding interview questions. If you enjoy coding in Python and preparing for coding interview, then this might help. Enjoy! :bowtie: :bowtie: Give me a Star if you like this repo. :star:
 
 ## **Following are the questions:**
 
