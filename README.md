@@ -1,4 +1,4 @@
-# ** Free-code-camp-coding-interview-questions**
+# **Freecodecamp coding interview questions**
 >Solutions of the questions provided by free code camp, it contains almost 1000 hour of Coding interview questions. Enjoy! 
 Following are the questions:
 <oL>
