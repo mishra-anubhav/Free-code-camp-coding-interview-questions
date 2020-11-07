@@ -1,5 +1,5 @@
 # **Freecodecamp coding interview questions :scroll: :scroll:**
->Solutions of the questions provided by freecodecamp with better explanation (at least, I think so :sweat_smile: ), it contains almost 1000 hour of Coding interview questions. Enjoy! :bowtie: :bowtie: 
+>Solutions of the questions provided by freecodecamp with better explanation (at least, I think so :sweat_smile: ), it contains almost 1000 hour of Coding interview questions. Enjoy! :bowtie: :bowtie:  Give me a Star if you like this repo. :star:
 
 ## **Following are the questions:**
 
